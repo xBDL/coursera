@@ -1,0 +1,3 @@
+[submodule "specializations/cs-fundamentals/coursera-cs400"]
+	path = specializations/cs-fundamentals/coursera-cs400
+	url = git@xbdl.github.com:wadefagen/coursera.git
